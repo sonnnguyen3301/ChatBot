@@ -1,0 +1,29 @@
+Chọn phương trình: 
+    2   y
+x = ─ - ─
+    3   3
+Thế 
+    48
+y = ──
+    17
+vào
+    2   y
+x = ─ - ─
+    3   3
+rút gọn lại được: 
+    -14 
+x = ────
+     51 
+Phương trình sẽ có nghiệm: 
+    -14 
+x = ────
+     51 
+Hệ phương trình hiện tại:    106
+z = ───
+     51
+    48
+y = ──
+    17
+    -14 
+x = ────
+     51 

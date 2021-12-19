@@ -1,0 +1,29 @@
+Chọn phương trình: 
+    26   3⋅z
+y = ── - ───
+    7     7 
+Thế 
+    106
+z = ───
+     51
+vào
+    26   3⋅z
+y = ── - ───
+    7     7 
+rút gọn lại được: 
+    48
+y = ──
+    17
+Phương trình sẽ có nghiệm: 
+    48
+y = ──
+    17
+Hệ phương trình hiện tại:    106
+z = ───
+     51
+    2   y
+x = ─ - ─
+    3   3
+    48
+y = ──
+    17

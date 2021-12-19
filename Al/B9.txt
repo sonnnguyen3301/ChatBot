@@ -1,0 +1,5 @@
+Chia bậc cao nhất ở 2 bên theo thứ tự trái qua phải: 660*x / x = 660, ghi lại kết quả.
+<br>Lấy kết quả vừa tìm được nhân lại số chia: 660 * (x - 5) = 660*x - 3300
+<br>Lấy đa thức bên trái trừ số vừa tìm được: 660*x + 2 - (660*x - 3300) = 3302
+<br>Kết quả hiện tại: x**4 + 5*x**3 + 26*x**2 + 132*x + 660
+<br>Biểu thức hiện tại: 3302/(x - 5)

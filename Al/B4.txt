@@ -1,0 +1,23 @@
+Chọn phương trình: 
+2⋅x + 3⋅y + z = 10
+Thế 
+    2   y
+x = ─ - ─
+    3   3
+vào
+2⋅x + 3⋅y + z = 10
+rút gọn lại được: 
+7⋅y       4     
+─── + z + ─ = 10
+ 3        3     
+Rút biến y trong phương trình trên, phương trình lúc này trở thành: 
+    26   3⋅z
+y = ── - ───
+    7     7 
+Hệ phương trình hiện tại:    2   y
+x = ─ - ─
+    3   3
+    26   3⋅z
+y = ── - ───
+    7     7 
+4⋅x + 2⋅y - 7⋅z = -10

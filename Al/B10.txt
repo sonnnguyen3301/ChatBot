@@ -1,0 +1,5 @@
+Theo đề bài, các biến trong biểu thức đều thuộc số nguyên, nên với những phần nào không có số chia, phần đó chắc chắn sẽ là số nguyên.
+<br>Việc còn lại là bạn xác định giá trị của biểu thức có số chia sao cho kết quả biểu thức đó cũng là số nguyên.
+<br>Bạn để ý, để biểu thức 3302/(x - 5) có kết quả nguyên thì x - 5 phải là ước của 3302
+<br>Nói cách khác, x - 5 phải bằng với các ước của 3302
+<br>Các số chia hết (hay ước) của 3302 là [1, 2, 13, 26, 127, 254, 1651, 3302]3302/(x - 5)

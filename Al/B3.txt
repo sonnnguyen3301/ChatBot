@@ -1,0 +1,12 @@
+Đầu tiên bạn chọn phương trình nào có số biến ít nhất, nếu bằng nhau thì bạn chọn cái nào cũng được. Mình sẽ chọn: 
+3⋅x + y = 2
+Mình sẽ rút x trong phương trình trên, phương trình lúc này trở thành: 
+    2   y
+x = ─ - ─
+    3   3
+Rồi bạn cứ tiếp tục lặp lại các bước trên, tới khi nào tìm được các nghiệm trong hệ phương trình.
+Hệ phương trình hiện tại:    2   y
+x = ─ - ─
+    3   3
+2⋅x + 3⋅y + z = 10
+4⋅x + 2⋅y - 7⋅z = -10

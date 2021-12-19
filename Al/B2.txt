@@ -1,0 +1,6 @@
+Đối với dạng bài này, cách dễ nhất là bạn dùng phương pháp thế.
+Đầu tiên bạn chọn phương trình nào có số biến ít nhất, sau đó bạn rút 1 biến theo thứ tự chữ cái trong phương trình, đem biến đó thế tiếp vào phương trình sau.
+Bạn nhớ thế theo thứ tự chữ cái cho dễ. Phương trình nào đã được rút thì bạn tạm thời để yên đó, còn cái nào chưa thì bạn cứ rút từ từ.
+Tới khi nào phương trinh bạn rút ra chỉ còn đúng 1 biến thì bạn lấy kết quả biến đó thế ngược trở lại các phương trình bạn vừa rút,
+theo thứ tự số lượng biến chưa có kết quả từ nhỏ nhất tới lớn nhất.
+Mình sẽ chỉ bạn từng bước trên:

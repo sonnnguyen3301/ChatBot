@@ -1,0 +1,3 @@
+Biểu thức bạn nhập vào sau khi mình rút gọn lại:3⋅x + y = 2
+2⋅x + 3⋅y + z = 10
+4⋅x + 2⋅y - 7⋅z = -10
